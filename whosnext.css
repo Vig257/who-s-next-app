@@ -1,0 +1,130 @@
+body {
+    background-color: #E2FFD4;
+}
+
+.container {
+
+    width: 986px;
+    height: 524px;
+    margin: auto;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+}
+
+label {
+    font-family: 'Itim';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 58px;
+    text-align: center;
+    color: #000000;
+    margin-left: 299px;
+
+}
+
+.header {
+    font-family: 'Itim';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 58px;
+    text-align: center;
+    margin-left: 222px;
+    color: #000000;
+}
+
+button {
+    background: #FFFFFF;
+    border: 3px solid #000000;
+    border-radius: 28px;
+    width: 226px;
+    height: 73px;
+    margin: 0px 415px;
+    font-family: 'Itim';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+}
+
+.block {
+
+    display: grid;
+    grid-template-columns: repeat(6, 20px);
+    grid-template-rows: repeat(4, 20px);
+    column-gap: 79px;
+    row-gap: 40px;
+    margin: 97px 168px;
+    font-size: 32px;
+    line-height: 15px;
+
+}
+
+.circle {
+    border-radius: 50%;
+    background-color: black;
+    top: 20px;
+
+}
+
+#circle_1 {
+    background-color:
+    #5C6AE2 ;
+}
+
+#circle_2 {
+    background-color:
+    #D14E4E ;
+}
+
+#circle_3 {
+    background-color:
+    #2FA1D2 ;
+}
+
+#circle_4 {
+    background-color:
+    #58D2B5 ;
+}
+
+#circle_5 {
+    background-color:#B45CC2 ;
+   
+}
+
+#circle_6 {
+    background-color:
+    #80CD43 ;
+}
+
+#circle_7{
+    background-color:
+    #C23E95 ;
+}
+
+#circle_8 {
+    background-color: 
+    #5F7390;
+}
+
+#circle_9 {
+    background-color:
+    #ECDF67 ;
+}
+
+#circle_10 {
+    background-color:
+    #D16A7D ;
+}
+
+#circle_11 {
+    background-color:
+    #5471BC ;
+}
+
+#circle_12 {
+    background-color:
+    #756161 ;
+}
